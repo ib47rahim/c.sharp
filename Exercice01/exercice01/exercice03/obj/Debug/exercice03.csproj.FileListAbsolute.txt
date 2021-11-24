@@ -1,0 +1,2 @@
+K:\Clé M. Verghote\Bloc 1\Base de la programmation\03 la structure itératives\Exercice\Exercice01\exercice01\exercice03\obj\Debug\exercice03.csprojAssemblyReference.cache
+K:\Clé M. Verghote\Bloc 1\Base de la programmation\03 la structure itératives\Exercice\Exercice01\exercice01\exercice03\obj\Debug\exercice03.csproj.CoreCompileInputs.cache
